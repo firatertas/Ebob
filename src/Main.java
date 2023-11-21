@@ -29,7 +29,7 @@ public class Main {
             }
         }
         do {
-            System.out.println("1- Ebob\n2- Ekok\n3- Ebob ve Ekok\n4- İşlemi sonlandır\nLütfen seçmekistediğiniz işlemi tıklayınız : ");
+            System.out.print("1- Ebob\n2- Ekok\n3- Ebob ve Ekok\n4- İşlemi sonlandır\nLütfen seçmekistediğiniz işlemi tıklayınız : ");
             search = sc.nextInt();
 
             switch (search) {

@@ -1,6 +1,6 @@
 Java ile iki sayının EBOB ve EKOK değerlerini bulan program yazıyoruz.
 
-EBOB : İki ya da daha fazla doğal sayının ortak bölenlerinin en büyüğüne bu sayıların en büyük ortak böleni, kısaca EBOB‘u denir.
+EBOB :İki ya da daha fazla doğal sayının ortak bölenlerinin en büyüğüne bu sayıların en büyük ortak böleni, kısaca EBOB‘u denir.
 
 ÖRNEK: 18 ve 24 sayılarının en büyük ortak bölenini adım adım bulalım.
 
@@ -22,12 +22,14 @@ Bu ortak katlardan en küçüğü 24 sayısı EKOK’tur.
 
 EKOK = (n1*n2) / EBOB
 
-Ödev
+# Ödev
+
 Java ile iki sayının EBOB ve EKOK değerlerini "While Döngüsü" kullanarak yazınız.
-```
-int i = 1;
-while (i <= 5) {
-System.out.print(i + ',');
-i++;
-} 
-```
+
+## Projede kullanılan ;
+* if-else
+* do-wile
+* swich-case
+
+# Çıktı:
+![.](Ebob/Çıktı.jpg)
