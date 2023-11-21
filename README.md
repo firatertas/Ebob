@@ -32,4 +32,4 @@ Java ile iki sayının EBOB ve EKOK değerlerini "While Döngüsü" kullanarak y
 * swich-case
 
 # Çıktı:
-![.](Ebob/Çıktı.jpg)
+![cikti](pictures/Çıktı.png)
